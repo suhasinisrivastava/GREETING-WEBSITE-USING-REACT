@@ -1,0 +1,28 @@
+*{
+  background-color: rgb(150, 211, 219);
+}
+.greet{
+  text-align: center;
+  height: 50px;
+  background-color: rgb(240, 183, 109);
+  height: 500px;
+  padding: 50px;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  margin-left:30px;
+  margin-right: 200px;
+  font-style: oblique;
+  font-size: 100px;
+  line-height: 100px;
+  color: rgb(201, 81, 81);
+  
+  
+}
+
+.x{
+  border: black;
+  background-color: #e7cba6;
+  box-shadow: 10px 10px 5px rgb(56, 55, 55);
+  margin-left: 500px;
+  margin-right: 500px;
+}
